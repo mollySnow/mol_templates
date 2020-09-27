@@ -38,6 +38,7 @@ pub mod tools {
 
 pub mod templates {
     /*-insert mod_templates-*/
+    pub mod template_csharp;
     pub mod library_template;
     pub mod template_html;
     pub mod template_rust;
