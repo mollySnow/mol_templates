@@ -1,0 +1,10 @@
+[package]
+name = "mol_templates"
+version = "0.1.0"
+authors = ["Molly <molly.k.bjork@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+nom = "5.1.2"
+inflections = "1.1.1"
+glob = "0.3.0"
