@@ -1,6 +1,6 @@
 [package]
 name = "mol_templates"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Molly <molly.k.bjork@gmail.com>"]
 edition = "2018"
 
